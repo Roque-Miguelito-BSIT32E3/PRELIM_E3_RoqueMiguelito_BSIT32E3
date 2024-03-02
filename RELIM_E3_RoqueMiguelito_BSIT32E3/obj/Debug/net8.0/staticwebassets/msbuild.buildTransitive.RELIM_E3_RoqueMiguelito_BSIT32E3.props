@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RELIM_E3_RoqueMiguelito_BSIT32E3.props" />
+</Project>
